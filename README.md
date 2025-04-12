@@ -1,7 +1,7 @@
 # Heart Disease Prediction using Machine Learning
 
 This project uses machine learning models (Random Forest and Logistic Regression) to predict the likelihood of heart disease based on patient data.
-
+0- no disease 1-disease
 ## Project Features
 - Preprocessed clinical data (age, cholesterol, etc.)
 - Trained and evaluated two models: Random Forest and Logistic Regression
@@ -12,11 +12,11 @@ This project uses machine learning models (Random Forest and Logistic Regression
 - Python
 - Pandas
 - Scikit-learn
-- Jupyter Notebook / VS Code
+- Jupyter Notebook
 
 ## Results
-- Random Forest achieved an accuracy of **~XX%**
-- Logistic Regression achieved an accuracy of **~YY%**
+- Random Forest achieved an accuracy of 100.0%
+- Logistic Regression achieved an accuracy of 86.66666666666667%
 
 ## Files in this Repo
 - `heart_disease.ipynb` – Main code file with data loading, training, evaluation, and prediction
